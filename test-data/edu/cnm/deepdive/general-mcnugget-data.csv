@@ -1,0 +1,11 @@
+value, is General McNugget?
+35, {20, 9, 6}, true
+20, {10, 6, 4}, true
+23, {10, 9, 4}, true
+35, {20, 10, 5}, true
+15, {6, 5, 4}, true
+11, {20, 9, 6}, false
+7, {10, 6, 4}, false
+16, {10, 9, 4}, false
+21, {20, 10, 5}, false
+17, {6, 5, 4}, false
